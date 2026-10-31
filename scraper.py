@@ -34,8 +34,8 @@ def parse_page(html, page_num):
         author_elem = subtext_row.find('a', class_='hnuser')
         author = author_elem.text if author_elem else 'Unknown'
 
-        rank_elem = subtext_row.find('a', class_='rank')
-        rank = rank_elem.text if rank_elem else 'Unkown'
+        rank_elem = row.find('span', class_='rank')
+        rank = rank_elem.get_text(strip=True).rstrip('.') if rank_elem else '0'
 
         subtext_td = subtext_row.find('td', class_='subtext')
         comment_links = subtext_td.find_all('a') if subtext_td else []
@@ -51,7 +51,7 @@ def parse_page(html, page_num):
             "url": title_element["href"],
             "points": score,
             "author": author,
-            "rank": rank,
+            "rank": int(rank),
             "comments": comments,
             "page": page_num,
         })
