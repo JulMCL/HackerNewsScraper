@@ -1,0 +1,1203 @@
+Collected at (UTC): 2026-11-07 07:10:08.059359
+Posts: 150
+
+Title: Asahi Linux Progress Linux 7.3
+URL: https://asahilinux.org/2026/11/progress-report-7-3/
+Points: 65 points
+Author: ackyshake
+Rank: 1
+Comments: 28 comments
+Page: 1
+----------------------------------------
+Title: Libghostty 1.0
+URL: https://mitchellh.com/writing/libghostty-1-0
+Points: 491 points
+Author: mfiguiere
+Rank: 2
+Comments: 79 comments
+Page: 1
+----------------------------------------
+Title: A barbarian tribe's mythic origin story is true, ancient DNA reveals
+URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals
+Points: 41 points
+Author: benbreen
+Rank: 3
+Comments: 10 comments
+Page: 1
+----------------------------------------
+Title: A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+URL: https://hightouch.com/blog/llm-judges-identity-resolution
+Points: 426 points
+Author: theanomaly
+Rank: 4
+Comments: 96 comments
+Page: 1
+----------------------------------------
+Title: Tesla to wind down Cybertruck production
+URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
+Points: 964 points
+Author: PLenz
+Rank: 5
+Comments: 1819 comments
+Page: 1
+----------------------------------------
+Title: RealPage rent-pricing case wraps with nearly $360M to renters
+URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/
+Points: 99 points
+Author: raybb
+Rank: 6
+Comments: 45 comments
+Page: 1
+----------------------------------------
+Title: What do the next 4000 emoji look like?
+URL: https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look
+Points: 44 points
+Author: lacieargyle
+Rank: 7
+Comments: 27 comments
+Page: 1
+----------------------------------------
+Title: US FAA says it will phase out floppy disks from air traffic control by 2028
+URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/
+Points: 320 points
+Author: ChrisArchitect
+Rank: 8
+Comments: 260 comments
+Page: 1
+----------------------------------------
+Title: Firecracker VM Escape: PwnEscape Part 2
+URL: https://pwn.ai/blog/firecracker-escape
+Points: 211 points
+Author: SerCe
+Rank: 9
+Comments: 105 comments
+Page: 1
+----------------------------------------
+Title: Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE
+URL: https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/
+Points: 71 points
+Author: derbOac
+Rank: 10
+Comments: 5 comments
+Page: 1
+----------------------------------------
+Title: The Flash C Compiler
+URL: https://blog.adafruit.com/2026/10/31/flash-c-compiler/
+Points: 29 points
+Author: AlexeyBrin
+Rank: 11
+Comments: 2 comments
+Page: 1
+----------------------------------------
+Title: Notes on San Marino
+URL: https://mattlakeman.org/2026/11/05/notes-on-san-marino/
+Points: 50 points
+Author: yorwba
+Rank: 12
+Comments: 14 comments
+Page: 1
+----------------------------------------
+Title: AI is dramatically accelerating AI research
+URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
+Points: 274 points
+Author: yurivish
+Rank: 13
+Comments: 210 comments
+Page: 1
+----------------------------------------
+Title: Can GROUP BY still be optimized after all these years?
+URL: https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/
+Points: 71 points
+Author: ntur1337
+Rank: 14
+Comments: 8 comments
+Page: 1
+----------------------------------------
+Title: The great butter and cheese fire of 1991
+URL: https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/
+Points: 7 points
+Author: subroutine
+Rank: 15
+Comments: discuss
+Page: 1
+----------------------------------------
+Title: First steps in bare-metal programming using UEFI
+URL: https://kevinboone.me/efitest_index.html
+Points: 214 points
+Author: LaSombra
+Rank: 16
+Comments: 40 comments
+Page: 1
+----------------------------------------
+Title: I toured Unitree's factory. I'm more bullish on the West
+URL: https://josef.cn/blog/unitree
+Points: 99 points
+Author: josefchen
+Rank: 17
+Comments: 62 comments
+Page: 1
+----------------------------------------
+Title: GitHub's new Git storage architecture
+URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
+Points: 118 points
+Author: DAlperin
+Rank: 18
+Comments: 20 comments
+Page: 1
+----------------------------------------
+Title: Panthera: Ampere's CPU Performance Model
+URL: https://github.com/AmpereComputing/panthera
+Points: 28 points
+Author: mshockwave
+Rank: 19
+Comments: 9 comments
+Page: 1
+----------------------------------------
+Title: Restaurant Delivery Payment-Skimming Campaign
+URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming
+Points: 114 points
+Author: fiej
+Rank: 20
+Comments: 60 comments
+Page: 1
+----------------------------------------
+Title: Devvm.dev: One VM for every project
+URL: https://devvm.dev/
+Points: 146 points
+Author: luispa
+Rank: 21
+Comments: 58 comments
+Page: 1
+----------------------------------------
+Title: Gemini Omni 1.2 Flash
+URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
+Points: 317 points
+Author: thisisauserid
+Rank: 22
+Comments: 227 comments
+Page: 1
+----------------------------------------
+Title: Google has acquired Crusoe's data center site in southeast Wyoming
+URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update
+Points: 64 points
+Author: rexbee
+Rank: 23
+Comments: 13 comments
+Page: 1
+----------------------------------------
+Title: Project Sync: The journey to sample-perfect audio/video sync with WebCodecs
+URL: https://mediabunny.dev/blog/project-sync
+Points: 8 points
+Author: vanilagy
+Rank: 24
+Comments: discuss
+Page: 1
+----------------------------------------
+Title: Lighting the Skies
+URL: https://computer.rip/2026-10-25-searchlights.html
+Points: 14 points
+Author: dverlaeckt80
+Rank: 25
+Comments: 2 comments
+Page: 1
+----------------------------------------
+Title: Show HN: Tmux-restore saves tmux windows and agent sessions across reboots
+URL: https://github.com/andrewboldi/tmux-restore
+Points: 27 points
+Author: boldi
+Rank: 26
+Comments: 11 comments
+Page: 1
+----------------------------------------
+Title: Sodium-ion batteries approach cost parity with LFP
+URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/
+Points: 171 points
+Author: doener
+Rank: 27
+Comments: 80 comments
+Page: 1
+----------------------------------------
+Title: Chomsky and the two cultures of statistical learning (2011)
+URL: https://www.norvig.com/chomsky.html
+Points: 119 points
+Author: andsoitis
+Rank: 28
+Comments: 98 comments
+Page: 1
+----------------------------------------
+Title: Show HN: Waymark – A workflow engine that compiles jobs instead of replaying
+URL: https://github.com/piercefreeman/waymark
+Points: 60 points
+Author: icyfox
+Rank: 29
+Comments: 18 comments
+Page: 1
+----------------------------------------
+Title: From Linux to Wikipedia: How Volunteers Build the Internet
+URL: https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/
+Points: 315 points
+Author: jonbaer
+Rank: 30
+Comments: 123 comments
+Page: 1
+----------------------------------------
+Title: The AI sell-off compared to well-known stock market crashes
+URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective
+Points: 56 points
+Author: hubraumhugo
+Rank: 31
+Comments: 47 comments
+Page: 2
+----------------------------------------
+Title: UpCodes (YC S17) is hiring SDR's to sell AI compliance software
+URL: https://up.codes/careers?utm_source=HN
+Points: 0 points
+Author: Unknown
+Rank: 32
+Comments: 0 comments
+Page: 2
+----------------------------------------
+Title: Memorilla: Latent Semantic Memory for LLMs
+URL: https://arxiv.org/abs/2610.21375
+Points: 102 points
+Author: handfuloflight
+Rank: 33
+Comments: 12 comments
+Page: 2
+----------------------------------------
+Title: Anthropic IPO buyers see valuation as low as $1.1T
+URL: https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout
+Points: 270 points
+Author: dgellow
+Rank: 34
+Comments: 537 comments
+Page: 2
+----------------------------------------
+Title: How octopuses squeeze through too small gaps
+URL: https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps
+Points: 62 points
+Author: bookofjoe
+Rank: 35
+Comments: 17 comments
+Page: 2
+----------------------------------------
+Title: Claude Code sends your email address to websites
+URL: https://github.com/anthropics/claude-code/issues/107757
+Points: 1566 points
+Author: motoroco
+Rank: 36
+Comments: 502 comments
+Page: 2
+----------------------------------------
+Title: Replit rebuilt its sandbox engine with microVMs
+URL: https://frontier.replit.com/sandbox-engine-microvms-part-1/
+Points: 82 points
+Author: gaplong
+Rank: 37
+Comments: 28 comments
+Page: 2
+----------------------------------------
+Title: sshole
+URL: https://sshhole.com
+Points: 2921 points
+Author: josemrb
+Rank: 38
+Comments: 734 comments
+Page: 2
+----------------------------------------
+Title: Kugelblitz – Mac-Native Google Earth Alternative
+URL: https://apps.metaebene.me/en/kugelblitz
+Points: 250 points
+Author: luoc
+Rank: 39
+Comments: 65 comments
+Page: 2
+----------------------------------------
+Title: Size-It-Up (Game)
+URL: https://magnitudle.com/size-it-up
+Points: 76 points
+Author: whoishiding
+Rank: 40
+Comments: 26 comments
+Page: 2
+----------------------------------------
+Title: Ozempic-style drugs now in trials for heart failure, addiction and even aging
+URL: https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/
+Points: 65 points
+Author: randycupertino
+Rank: 41
+Comments: 32 comments
+Page: 2
+----------------------------------------
+Title: Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)
+URL: https://jhr.pensoft.net/articles.php?id=9096
+Points: 169 points
+Author: hitekker
+Rank: 42
+Comments: 53 comments
+Page: 2
+----------------------------------------
+Title: How tall can you build with 54 Jenga blocks?
+URL: https://johnjwang.com/post/2026/10/25/tallest-jenga-tower
+Points: 10 points
+Author: johnjwang
+Rank: 43
+Comments: 6 comments
+Page: 2
+----------------------------------------
+Title: We've built an open-source feature flag server for 11 years
+URL: https://github.com/Unleash/unleash
+Points: 153 points
+Author: ivarconr
+Rank: 44
+Comments: 101 comments
+Page: 2
+----------------------------------------
+Title: Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS
+URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105
+Points: 632 points
+Author: microtonal
+Rank: 45
+Comments: 412 comments
+Page: 2
+----------------------------------------
+Title: Blender's UI and Runtime: Much Faster Than GPUI
+URL: https://github.com/ppmpreetham/BUI
+Points: 691 points
+Author: ppmpreetham
+Rank: 46
+Comments: 281 comments
+Page: 2
+----------------------------------------
+Title: Deus Ex
+URL: https://www.filfre.net/2026/11/deus-ex/
+Points: 352 points
+Author: cybersoyuz
+Rank: 47
+Comments: 186 comments
+Page: 2
+----------------------------------------
+Title: 40C3 halfnarp – Submit talk preferences to aid scheduling
+URL: https://halfnarp.events.ccc.de
+Points: 49 points
+Author: hanemile
+Rank: 48
+Comments: 9 comments
+Page: 2
+----------------------------------------
+Title: Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web
+URL: https://github.com/anomalyco/rune
+Points: 163 points
+Author: mik3y
+Rank: 49
+Comments: 118 comments
+Page: 2
+----------------------------------------
+Title: The Ubuntu 26.04 Rust sudo is not compatible with standard sudo
+URL: https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible
+Points: 172 points
+Author: wondersky
+Rank: 50
+Comments: 156 comments
+Page: 2
+----------------------------------------
+Title: Show HN: Did prediction markets do any predicting this midterms?
+URL: https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms
+Points: 24 points
+Author: nuwandavek
+Rank: 51
+Comments: 11 comments
+Page: 2
+----------------------------------------
+Title: PyLings: Solve Exercises and Learn Python
+URL: https://github.com/thesayfulla/pylings
+Points: 49 points
+Author: thesayfulla
+Rank: 52
+Comments: 2 comments
+Page: 2
+----------------------------------------
+Title: Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)
+URL: https://www.laphamsquarterly.org/roundtable/zero-hour
+Points: 100 points
+Author: NaOH
+Rank: 53
+Comments: 4 comments
+Page: 2
+----------------------------------------
+Title: Pwn.college
+URL: https://pwn.college/
+Points: 311 points
+Author: tripdout
+Rank: 54
+Comments: 54 comments
+Page: 2
+----------------------------------------
+Title: ChatGPT silently passes data between connectors and the bounty wants an ID card
+URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053
+Points: 86 points
+Author: Aldipower
+Rank: 55
+Comments: 35 comments
+Page: 2
+----------------------------------------
+Title: Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)
+URL: https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/
+Points: 68 points
+Author: goopthink
+Rank: 56
+Comments: 2 comments
+Page: 2
+----------------------------------------
+Title: We know 15k websites are infected. how do we tell them?
+URL: https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/
+Points: 150 points
+Author: speckx
+Rank: 57
+Comments: 130 comments
+Page: 2
+----------------------------------------
+Title: MTG-I2 First Images
+URL: https://www.eumetsat.int/mtg-i2-first-images
+Points: 65 points
+Author: N19PEDL2
+Rank: 58
+Comments: 16 comments
+Page: 2
+----------------------------------------
+Title: I struggle to believe that AI R&D is ingenious
+URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL
+Points: 192 points
+Author: porridgeraisin
+Rank: 59
+Comments: 197 comments
+Page: 2
+----------------------------------------
+Title: AI for scientific discovery: How researchers use Claude
+URL: https://www.anthropic.com/research/how-researchers-use-claude
+Points: 93 points
+Author: ersinesen
+Rank: 60
+Comments: 38 comments
+Page: 2
+----------------------------------------
+Title: Reading the Anthropic S-1, with Zvi Mowshowitz
+URL: https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/
+Points: 35 points
+Author: nbernard
+Rank: 61
+Comments: discuss
+Page: 3
+----------------------------------------
+Title: My first and last telegram was from Rebecca West
+URL: https://thelampmagazine.com/blog/rebecca-wests-nightingale
+Points: 35 points
+Author: bryanrasmussen
+Rank: 62
+Comments: 8 comments
+Page: 3
+----------------------------------------
+Title: Implementing GPT-2 in CSS
+URL: https://shubhampatil.dev/blog/gpt2-css
+Points: 9 points
+Author: zapt02
+Rank: 63
+Comments: 1 comment
+Page: 3
+----------------------------------------
+Title: Ask HN: What in the world is taking Ubuntu so long?
+URL: item?id=50393105
+Points: 197 points
+Author: linsomniac
+Rank: 64
+Comments: 126 comments
+Page: 3
+----------------------------------------
+Title: MS Paint Remote Code Execution Vulnerability
+URL: https://www.cve.org/CVERecord?id=CVE-2026-83844
+Points: 704 points
+Author: kuberwastaken
+Rank: 65
+Comments: 276 comments
+Page: 3
+----------------------------------------
+Title: 88x31 GIF Stickers for 2026
+URL: https://a90.com/experiments/88x31/
+Points: 47 points
+Author: saint11
+Rank: 66
+Comments: 6 comments
+Page: 3
+----------------------------------------
+Title: Northstar: A New Booster Engine with More Thrust and Less Mass
+URL: https://www.blueorigin.com/news/introducing-northstar-new-booster-engine
+Points: 18 points
+Author: simonebrunozzi
+Rank: 67
+Comments: discuss
+Page: 3
+----------------------------------------
+Title: Britain to make salary disclosure in job ads mandatory
+URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/
+Points: 577 points
+Author: 1659447091
+Rank: 68
+Comments: 438 comments
+Page: 3
+----------------------------------------
+Title: As the Japanese countryside empties out, wildlife is disappearing
+URL: https://e360.yale.edu/digest/japan-depopulation-biodiversity
+Points: 77 points
+Author: rdmuser
+Rank: 69
+Comments: 47 comments
+Page: 3
+----------------------------------------
+Title: Scriptable GeoDNS: Leaving AWS for Bunny
+URL: https://vincent.bernat.ch/en/blog/2026-bunny-geodns
+Points: 60 points
+Author: sshah03
+Rank: 70
+Comments: 22 comments
+Page: 3
+----------------------------------------
+Title: Nvidia Kubernetes Engine (NVKE)
+URL: https://github.com/dsx-ai-factory/nvke
+Points: 123 points
+Author: gkapur
+Rank: 71
+Comments: 27 comments
+Page: 3
+----------------------------------------
+Title: Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3
+URL: https://github.com/rivet-dev/rivet
+Points: 118 points
+Author: NathanFlurry
+Rank: 72
+Comments: 58 comments
+Page: 3
+----------------------------------------
+Title: Swipeblocked: The phrases your iPhone won't suggest
+URL: https://swipeblocked.com/
+Points: 48 points
+Author: lladnar
+Rank: 73
+Comments: 17 comments
+Page: 3
+----------------------------------------
+Title: Flawless UI-UX Skill 1.0.0
+URL: https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0
+Points: 28 points
+Author: 99lcccss
+Rank: 74
+Comments: 31 comments
+Page: 3
+----------------------------------------
+Title: UV-5RM-Radio-Mod
+URL: https://github.com/jakegarrett13-afk/UV-5RM-Radio-Mod
+Points: 17 points
+Author: nickmcc
+Rank: 75
+Comments: 1 comment
+Page: 3
+----------------------------------------
+Title: Multiplayer tanks that demolish real buildings from OpenStreetMap
+URL: https://worldstrike.fun/
+Points: 168 points
+Author: n4ze3m
+Rank: 76
+Comments: 120 comments
+Page: 3
+----------------------------------------
+Title: Only 16% of U.S. fast-charging stations meet federal NEVI standards (open data)
+URL: https://chargingnear.me/data
+Points: 26 points
+Author: parkgraph
+Rank: 77
+Comments: 9 comments
+Page: 3
+----------------------------------------
+Title: Outbound SIP calling is now available to all organizations
+URL: https://developers.openai.com/api/docs/guides/voice-sip
+Points: 62 points
+Author: arbayi
+Rank: 78
+Comments: 53 comments
+Page: 3
+----------------------------------------
+Title: Obscure audio codec is a perfect fit for the N64
+URL: https://phoboslab.org/log/2026/11/n64-ulc-codec
+Points: 261 points
+Author: frostbyte7
+Rank: 79
+Comments: 31 comments
+Page: 3
+----------------------------------------
+Title: MCP Explained
+URL: https://mcp-explained.com/
+Points: 334 points
+Author: rwilinski
+Rank: 80
+Comments: 133 comments
+Page: 3
+----------------------------------------
+Title: Show HN: Agents infer Lego mechanisms from sources, then animate them
+URL: https://github.com/anteloc/ldraw-mecha/tree/v0.5.0
+Points: 26 points
+Author: antelocnova
+Rank: 81
+Comments: 1 comment
+Page: 3
+----------------------------------------
+Title: Microsoft is winding down Oracle deal to rent AI cloud capacity
+URL: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/
+Points: 92 points
+Author: brazukadev
+Rank: 82
+Comments: 18 comments
+Page: 3
+----------------------------------------
+Title: Pangram Image 1.0
+URL: https://www.pangram.com/blog/introducing-pangram-image-1-0
+Points: 148 points
+Author: gmays
+Rank: 83
+Comments: 67 comments
+Page: 3
+----------------------------------------
+Title: Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue
+URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html
+Points: 505 points
+Author: randycupertino
+Rank: 84
+Comments: 224 comments
+Page: 3
+----------------------------------------
+Title: Hardcoded credentials and other issues in Tata Motors App
+URL: https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537
+Points: 85 points
+Author: qtqtqt
+Rank: 85
+Comments: 17 comments
+Page: 3
+----------------------------------------
+Title: So my ISP was hijacking my DNS
+URL: https://www.karthihegde.dev/posts/dns_tampering
+Points: 228 points
+Author: frostbyte7
+Rank: 86
+Comments: 194 comments
+Page: 3
+----------------------------------------
+Title: Half of Show HN posts are a bare link. Ones with 500 characters got 2x replies
+URL: https://ownfeed.dev/guides/show-hn-analysis-37622-posts
+Points: 19 points
+Author: shun_dev
+Rank: 87
+Comments: 4 comments
+Page: 3
+----------------------------------------
+Title: Brave Sells Its Search Index to AI, and Your Website Is Probably in It
+URL: https://www.searchenginejournal.com/brave-sells-its-search-index-to-ai-and-your-website-is-probably-in-it/595829/
+Points: 13 points
+Author: linhns
+Rank: 88
+Comments: 2 comments
+Page: 3
+----------------------------------------
+Title: Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI
+URL: https://openai.com/index/partnering-with-hacktron/
+Points: 10 points
+Author: 99lcccss
+Rank: 89
+Comments: 2 comments
+Page: 3
+----------------------------------------
+Title: University libraries are being swarmed by AI bots, putting public access at risk
+URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287
+Points: 128 points
+Author: blakesterz
+Rank: 90
+Comments: 58 comments
+Page: 3
+----------------------------------------
+Title: Baidu released ERNIE 5.5 Flash Base
+URL: https://ernie.baidu.com/release/ernie-5-5-flash-base/
+Points: 186 points
+Author: pretext
+Rank: 91
+Comments: 98 comments
+Page: 4
+----------------------------------------
+Title: AI is forcing us to pay off 40 years of technical debt
+URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
+Points: 1292 points
+Author: pseudolus
+Rank: 92
+Comments: 748 comments
+Page: 4
+----------------------------------------
+Title: Developer ends lucrative screensaver deal with Roku because Fox bought it
+URL: https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/
+Points: 44 points
+Author: pseudolus
+Rank: 93
+Comments: 5 comments
+Page: 4
+----------------------------------------
+Title: Window Sweaters
+URL: https://github.com/saragordic/window-sweaters
+Points: 451 points
+Author: nickswalker
+Rank: 94
+Comments: 132 comments
+Page: 4
+----------------------------------------
+Title: MoofTCP – A modern replacement for MacTCP on 68k Macs
+URL: https://github.com/matthewmrichter/mooftcp
+Points: 65 points
+Author: marcusbasant
+Rank: 95
+Comments: 34 comments
+Page: 4
+----------------------------------------
+Title: Goodbye from Salon
+URL: https://www.salon.com/2026/11/05/goodbye-from-salon/
+Points: 641 points
+Author: mkeeter
+Rank: 96
+Comments: 263 comments
+Page: 4
+----------------------------------------
+Title: WebAssembly Specification Release 3.0 (2026-11-04)
+URL: https://webassembly.github.io/spec/core/
+Points: 21 points
+Author: Tepix
+Rank: 97
+Comments: 2 comments
+Page: 4
+----------------------------------------
+Title: The Hackintosh Reborn
+URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/
+Points: 402 points
+Author: rubatuga
+Rank: 98
+Comments: 236 comments
+Page: 4
+----------------------------------------
+Title: Organic farm in Switzerland is growing blueberries beneath 5,220 solar panels
+URL: https://www.autonocion.com/us/5220-solar-panels-10-5-feet-organic-blueberries-switzerland-four-weeks-longer/
+Points: 8 points
+Author: thunderbong
+Rank: 99
+Comments: discuss
+Page: 4
+----------------------------------------
+Title: Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms
+URL: https://adikshatriyag-crypto.github.io/aegis-kernel/
+Points: 12 points
+Author: adityawebde
+Rank: 100
+Comments: 3 comments
+Page: 4
+----------------------------------------
+Title: The Pangram Backlash Unfolding on College Campuses
+URL: https://www.theatlantic.com/technology/2026/09/college-professors-ai-detectors-pangram/688727/
+Points: 4 points
+Author: paulpauper
+Rank: 101
+Comments: discuss
+Page: 4
+----------------------------------------
+Title: The Port That Does Not Exist
+URL: https://acid.vegas/blog/the-port-that-does-not-exist/
+Points: 9 points
+Author: tomwas54
+Rank: 102
+Comments: 1 comment
+Page: 4
+----------------------------------------
+Title: AI coding agent setups from 663 Hacker News comments
+URL: https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html
+Points: 19 points
+Author: titusblair
+Rank: 103
+Comments: 3 comments
+Page: 4
+----------------------------------------
+Title: Why Amstrad chose the 3" drives
+URL: https://www.cpcwiki.eu/forum/amstrad-cpc-hardware/why-amstrad-chose-the-3-drives/
+Points: 13 points
+Author: Skyfall106
+Rank: 104
+Comments: 4 comments
+Page: 4
+----------------------------------------
+Title: Starfall – Affordable, routine access to microgravity
+URL: https://www.spacex.com/starfall
+Points: 284 points
+Author: gmays
+Rank: 105
+Comments: 231 comments
+Page: 4
+----------------------------------------
+Title: SketchAgentBench – evaluate LLMs on 3D spatial reasoning
+URL: https://sketchagent.dev/
+Points: 9 points
+Author: wsxiaoys
+Rank: 106
+Comments: 3 comments
+Page: 4
+----------------------------------------
+Title: Inkling 2 Small
+URL: https://thinkingmachines.ai/news/inkling-2-small/
+Points: 286 points
+Author: Philpax
+Rank: 107
+Comments: 91 comments
+Page: 4
+----------------------------------------
+Title: TextEdit vs. Pages
+URL: https://leancrew.com/all-this/2026/10/textedit-vs-pages/
+Points: 104 points
+Author: surprisetalk
+Rank: 108
+Comments: 73 comments
+Page: 4
+----------------------------------------
+Title: Claude usage credits purchased after Dec 7 will expire 12 months after purchase
+URL: item?id=50399909
+Points: 12 points
+Author: bbg2401
+Rank: 109
+Comments: 4 comments
+Page: 4
+----------------------------------------
+Title: The Stacks Project, Formalized in Lean
+URL: https://axiommath.ai/research/the-stacks-project-formalized/
+Points: 97 points
+Author: namanbnsl
+Rank: 110
+Comments: 26 comments
+Page: 4
+----------------------------------------
+Title: Discord is ditching Electron and its new app uses less RAM
+URL: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app
+Points: 484 points
+Author: archb
+Rank: 111
+Comments: 422 comments
+Page: 4
+----------------------------------------
+Title: GPU-Accelerated Weight Teleportation
+URL: https://humansand.ai/blog/gpu-accelerated-weight-teleportation
+Points: 10 points
+Author: gmays
+Rank: 112
+Comments: 1 comment
+Page: 4
+----------------------------------------
+Title: Search for everyone
+URL: https://kagi.com/changelog#11820
+Points: 747 points
+Author: elashri
+Rank: 113
+Comments: 408 comments
+Page: 4
+----------------------------------------
+Title: Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents
+URL: https://github.com/zalando-incubator/agentic-identity-broker
+Points: 22 points
+Author: jbspeakr
+Rank: 114
+Comments: 3 comments
+Page: 4
+----------------------------------------
+Title: The Formula for Lovable Cities
+URL: https://worksinprogress.co/issue/the-forgotten-formula-for-lovable-cities/
+Points: 15 points
+Author: rafaelc
+Rank: 115
+Comments: discuss
+Page: 4
+----------------------------------------
+Title: I wish tech companies knew more about me
+URL: https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me
+Points: 550 points
+Author: freetonik
+Rank: 116
+Comments: 409 comments
+Page: 4
+----------------------------------------
+Title: Motorola Signature 27 with GrapheneOS support
+URL: https://motorolanews.com/motorola-signature-27-2/
+Points: 572 points
+Author: monneyboi
+Rank: 117
+Comments: 403 comments
+Page: 4
+----------------------------------------
+Title: Launch HN: Kino AI (YC S23) – AI media manager and video editor
+URL: item?id=50368804
+Points: 111 points
+Author: lukeigel
+Rank: 118
+Comments: 36 comments
+Page: 4
+----------------------------------------
+Title: Building a Multi-Agent System from Scratch: Architecture Patterns
+URL: https://kadhar.dev/blog/multi-agent-systems-from-scratch
+Points: 103 points
+Author: kadharmfn
+Rank: 119
+Comments: 44 comments
+Page: 4
+----------------------------------------
+Title: GPT-6 Astra covertly underperforms on safety research
+URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/
+Points: 341 points
+Author: lucrbvi
+Rank: 120
+Comments: 189 comments
+Page: 4
+----------------------------------------
+Title: We can do better than line-buffered output
+URL: https://nullprogram.com/blog/2026/11/05/
+Points: 111 points
+Author: zdw
+Rank: 121
+Comments: 13 comments
+Page: 5
+----------------------------------------
+Title: Being a kid making games in the early 2000s
+URL: https://jaytholen.net/teengamedev/
+Points: 146 points
+Author: farmerbb
+Rank: 122
+Comments: 53 comments
+Page: 5
+----------------------------------------
+Title: The School Apps Are Out of Control
+URL: https://www.theatlantic.com/family/2026/11/school-apps-communication-broken/689312/
+Points: 8 points
+Author: paulpauper
+Rank: 123
+Comments: 2 comments
+Page: 5
+----------------------------------------
+Title: AI-supported woodworking: Building an up-and-over tool chest with a clever hinge
+URL: https://portalworkers.com/blog/up-and-over-tool-chest/
+Points: 3 points
+Author: mpalme
+Rank: 124
+Comments: discuss
+Page: 5
+----------------------------------------
+Title: September in Servo: <progress>, rounded rectangles, and more
+URL: https://servo.org/blog/2026/11/05/september-in-servo/
+Points: 267 points
+Author: iamnothere
+Rank: 125
+Comments: 78 comments
+Page: 5
+----------------------------------------
+Title: Kalshi court losses pile up as judges refuse to block state gambling laws
+URL: https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/
+Points: 108 points
+Author: Analemma_
+Rank: 126
+Comments: 117 comments
+Page: 5
+----------------------------------------
+Title: Show HN: CloneGuard – Scan a repo for credential-stealing tricks before it runs
+URL: https://github.com/tharun208/cloneguard
+Points: 28 points
+Author: tharun208
+Rank: 127
+Comments: 7 comments
+Page: 5
+----------------------------------------
+Title: Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)
+URL: https://www.linum.ai/field-notes/pjit-21k
+Points: 273 points
+Author: schopra909
+Rank: 128
+Comments: 29 comments
+Page: 5
+----------------------------------------
+Title: Sony Debuts Wired Headphones with '80s-Inspired Design
+URL: https://www.bloomberg.com/news/articles/2026-11-05/sony-debuts-retro-60-wired-headphones-in-tribute-to-1979-walkman
+Points: 8 points
+Author: caiobegotti
+Rank: 129
+Comments: 1 comment
+Page: 5
+----------------------------------------
+Title: Download your favourite YouTube videos
+URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/
+Points: 395 points
+Author: surprisetalk
+Rank: 130
+Comments: 185 comments
+Page: 5
+----------------------------------------
+Title: Show HN: Stroq – a local audit of what your coding agent did and why
+URL: https://github.com/AGGIB/Stroq
+Points: 90 points
+Author: agybay_07
+Rank: 131
+Comments: 34 comments
+Page: 5
+----------------------------------------
+Title: Kimi K3.1 Pro model weights are out
+URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro
+Points: 636 points
+Author: abrarthought
+Rank: 132
+Comments: 189 comments
+Page: 5
+----------------------------------------
+Title: California Voters Reject Billionaire Wealth Tax, DDHQ Projects
+URL: https://www.bloomberg.com/news/articles/2026-11-07/california-voters-reject-billionaire-tax-ddhq-says
+Points: 8 points
+Author: madihaa
+Rank: 133
+Comments: 1 comment
+Page: 5
+----------------------------------------
+Title: A wave of plastic-free coffee pods and machines
+URL: https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free
+Points: 151 points
+Author: thunderbong
+Rank: 134
+Comments: 176 comments
+Page: 5
+----------------------------------------
+Title: Show Homi, a self-hosted offline-first family organizer
+URL: https://github.com/thecybermacgyver/homi
+Points: 5 points
+Author: thecybermacgyve
+Rank: 135
+Comments: discuss
+Page: 5
+----------------------------------------
+Title: Pliny – Letters – Book 7 Letter 27 (On Ghosts)
+URL: https://vroma.org/vromans/hwalker/Pliny/Pliny07-27-E.html?utm
+Points: 14 points
+Author: yubblegum
+Rank: 136
+Comments: 1 comment
+Page: 5
+----------------------------------------
+Title: Cellular pathway that allows colorectal cancer to metastasize
+URL: https://news.mit.edu/2026/biologists-identify-cellular-pathway-allows-colorectal-cancer-metastasize-0924
+Points: 6 points
+Author: gmays
+Rank: 137
+Comments: discuss
+Page: 5
+----------------------------------------
+Title: Awesome repositories are no longer awesome
+URL: https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/
+Points: 301 points
+Author: erikgahner
+Rank: 138
+Comments: 124 comments
+Page: 5
+----------------------------------------
+Title: DeepMind AI agents find two weaknesses in legacy 1024-bit RSA cryptosystems
+URL: https://twitter.com/pushmeet/status/2118752095859794390
+Points: 3 points
+Author: dvaplima
+Rank: 139
+Comments: discuss
+Page: 5
+----------------------------------------
+Title: 'It's just vape, nail, charity shops': Can anything save UK high street?
+URL: https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham
+Points: 168 points
+Author: theanonymousone
+Rank: 140
+Comments: 447 comments
+Page: 5
+----------------------------------------
+Title: AMD CEO saying it's a "data center first" company and PC sales will plummet
+URL: https://www.techradar.com/computing/gpu/amd-ceo-enrages-gamers-by-saying-its-now-a-data-center-first-company-and-predicts-pc-sales-will-plummet-by-a-double-digit-percentage-in-2027
+Points: 26 points
+Author: haunter
+Rank: 141
+Comments: 23 comments
+Page: 5
+----------------------------------------
+Title: Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM
+URL: https://firenook.dev/
+Points: 169 points
+Author: sanjevirau
+Rank: 142
+Comments: 30 comments
+Page: 5
+----------------------------------------
+Title: Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)
+URL: item?id=50363461
+Points: 725 points
+Author: jameslk
+Rank: 143
+Comments: 197 comments
+Page: 5
+----------------------------------------
+Title: Lemmings CSS Animation
+URL: https://markblah.github.io/lemmings/
+Points: 412 points
+Author: MarkBlah
+Rank: 144
+Comments: 78 comments
+Page: 5
+----------------------------------------
+Title: Fox completes its $22B Roku acquisition
+URL: https://www.foxcorporation.com/news/corp-press-releases/2026/fox-corporation-completes-acquisition-of-roku/
+Points: 7 points
+Author: rexbee
+Rank: 145
+Comments: 1 comment
+Page: 5
+----------------------------------------
+Title: Stop running everything through LLMs: How I fixed my research agent
+URL: https://www.tinyfish.ai/blog/inside-tinyresearch
+Points: 21 points
+Author: manavm12
+Rank: 146
+Comments: discuss
+Page: 5
+----------------------------------------
+Title: Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux
+URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop
+Points: 614 points
+Author: novaRom
+Rank: 147
+Comments: 289 comments
+Page: 5
+----------------------------------------
+Title: Google, Meta and TikTok Sue to Block Law Curbing Addictive Social Media for Kids
+URL: https://www.kqed.org/news/12108703/google-meta-and-tiktok-sue-to-block-california-law-curbing-addictive-social-media-for-kids
+Points: 7 points
+Author: geox
+Rank: 148
+Comments: discuss
+Page: 5
+----------------------------------------
+Title: Hungary: Communist-era files released, up to 60k former agents revealed
+URL: https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed
+Points: 235 points
+Author: rdmuser
+Rank: 149
+Comments: 67 comments
+Page: 5
+----------------------------------------
+Title: Udpstp and the packets that never left
+URL: https://pederbe.dev/writing/udpstp-packets-that-never-left/
+Points: 4 points
+Author: pederbe
+Rank: 150
+Comments: discuss
+Page: 5
+----------------------------------------
