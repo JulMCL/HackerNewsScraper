@@ -1,0 +1,1203 @@
+Collected at (UTC): 2026-11-08 10:21:09.038126
+Posts: 150
+
+Title: GitHub Down Again?
+URL: https://github.com/torvalds/linux
+Points: 29 points
+Author: Unknown
+Rank: 1
+Comments: 19 comments
+Page: 1
+----------------------------------------
+Title: Goodbye Claude, Hello Pi
+URL: https://caleb.software/posts/claude-to-pi.html
+Points: 316 points
+Author: Unknown
+Rank: 2
+Comments: 188 comments
+Page: 1
+----------------------------------------
+Title: Agent memory needs its OpenTelemetry moment
+URL: https://www.lorekit.io/blog/open-agent-memory-format
+Points: 24 points
+Author: Unknown
+Rank: 3
+Comments: 13 comments
+Page: 1
+----------------------------------------
+Title: Clj.rs – a Clojure dialect implemented in Rust
+URL: https://clj.rs/
+Points: 55 points
+Author: Unknown
+Rank: 4
+Comments: 4 comments
+Page: 1
+----------------------------------------
+Title: What I run on my $10 USD OpenStick homelab
+URL: https://blog.bosscher.ch/posts/openstick/
+Points: 589 points
+Author: Unknown
+Rank: 5
+Comments: 110 comments
+Page: 1
+----------------------------------------
+Title: Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files
+URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+Points: 396 points
+Author: Unknown
+Rank: 6
+Comments: 272 comments
+Page: 1
+----------------------------------------
+Title: Kirlian Photography: Building Your Own Equipment
+URL: https://imagesco.com/articles/kirlian/kirlian-photography.html
+Points: 48 points
+Author: Unknown
+Rank: 7
+Comments: 8 comments
+Page: 1
+----------------------------------------
+Title: Finding Xanadu: Inside a JRPG classic translation 15 years in the making
+URL: https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/
+Points: 17 points
+Author: Unknown
+Rank: 8
+Comments: discuss
+Page: 1
+----------------------------------------
+Title: Making any integer with four 2s (2025)
+URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/
+Points: 144 points
+Author: Unknown
+Rank: 9
+Comments: 33 comments
+Page: 1
+----------------------------------------
+Title: Need for Speed Underground 2 online in the browser
+URL: https://nfsu2.xyz/
+Points: 992 points
+Author: Unknown
+Rank: 10
+Comments: 250 comments
+Page: 1
+----------------------------------------
+Title: Uranium cubes reveal why the German nuclear project failed
+URL: https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/
+Points: 137 points
+Author: Unknown
+Rank: 11
+Comments: 90 comments
+Page: 1
+----------------------------------------
+Title: New typeface using intricate designs from Shakespeare's First Folio (2023)
+URL: https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323
+Points: 4 points
+Author: Unknown
+Rank: 12
+Comments: 1 comment
+Page: 1
+----------------------------------------
+Title: MaxxBench – "Nice DeepSWE score. But is it true?"
+URL: https://maxxbench.unlap.ai/research/why-maxxbench/
+Points: 313 points
+Author: Unknown
+Rank: 13
+Comments: 83 comments
+Page: 1
+----------------------------------------
+Title: ISponsorBlockTV: SponsorBlock client for all YouTube TV clients
+URL: https://github.com/dmunozv04/isponsorblocktv
+Points: 41 points
+Author: Unknown
+Rank: 14
+Comments: 10 comments
+Page: 1
+----------------------------------------
+Title: GitHub New pull request overview page in public preview
+URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/
+Points: 143 points
+Author: Unknown
+Rank: 15
+Comments: 94 comments
+Page: 1
+----------------------------------------
+Title: Consumer brain wave headsets threaten privacy
+URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F
+Points: 49 points
+Author: Unknown
+Rank: 16
+Comments: 20 comments
+Page: 1
+----------------------------------------
+Title: I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone
+URL: https://github.com/kobaltgit/StatCraft
+Points: 4 points
+Author: Unknown
+Rank: 17
+Comments: discuss
+Page: 1
+----------------------------------------
+Title: ZapFast: A fast, native WhatsApp client in Rust and egui
+URL: https://github.com/crmne/zapfast
+Points: 76 points
+Author: Unknown
+Rank: 18
+Comments: 48 comments
+Page: 1
+----------------------------------------
+Title: WaveDudeNext 2D Wave Simulator
+URL: https://github.com/graealex/WaveDudeNext
+Points: 9 points
+Author: Unknown
+Rank: 19
+Comments: 3 comments
+Page: 1
+----------------------------------------
+Title: Every Mac comes with an (undocumented) family member classifier
+URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph
+Points: 731 points
+Author: Unknown
+Rank: 20
+Comments: 385 comments
+Page: 1
+----------------------------------------
+Title: Amsterdam School
+URL: https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html
+Points: 42 points
+Author: Unknown
+Rank: 21
+Comments: 8 comments
+Page: 1
+----------------------------------------
+Title: Every Windows 11 app should kill Electron, and Discord just showed why
+URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/
+Points: 330 points
+Author: Unknown
+Rank: 22
+Comments: 304 comments
+Page: 1
+----------------------------------------
+Title: Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller
+URL: https://github.com/hedgerow-dev/coldframe
+Points: 237 points
+Author: Unknown
+Rank: 23
+Comments: 59 comments
+Page: 1
+----------------------------------------
+Title: The end of Microsoft Research's AI Frontiers group
+URL: https://hunch.net/?p=13764006
+Points: 457 points
+Author: Unknown
+Rank: 24
+Comments: 277 comments
+Page: 1
+----------------------------------------
+Title: Commodore PET – The Worlds First Personal Computer
+URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/
+Points: 56 points
+Author: Unknown
+Rank: 25
+Comments: 19 comments
+Page: 1
+----------------------------------------
+Title: The $8 Linux Computer (2022)
+URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html
+Points: 237 points
+Author: Unknown
+Rank: 26
+Comments: 92 comments
+Page: 1
+----------------------------------------
+Title: Apple’s grey list: Words and phrases your iPhone won’t help you spell
+URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you
+Points: 464 points
+Author: Unknown
+Rank: 27
+Comments: 293 comments
+Page: 1
+----------------------------------------
+Title: Asahi Linux Progress Linux 7.3
+URL: https://asahilinux.org/2026/11/progress-report-7-3/
+Points: 381 points
+Author: Unknown
+Rank: 28
+Comments: 331 comments
+Page: 1
+----------------------------------------
+Title: Every processor die anyone has photographed and given away
+URL: https://sheets.works/data-viz/cpu-dies
+Points: 125 points
+Author: Unknown
+Rank: 29
+Comments: 25 comments
+Page: 1
+----------------------------------------
+Title: Five memorable books about programming (2008)
+URL: https://prog21.dadgum.com/19.html
+Points: 116 points
+Author: Unknown
+Rank: 30
+Comments: 76 comments
+Page: 1
+----------------------------------------
+Title: A barbarian tribe's mythic origin story is true, ancient DNA reveals
+URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals
+Points: 238 points
+Author: Unknown
+Rank: 31
+Comments: 213 comments
+Page: 2
+----------------------------------------
+Title: Running a law firm on Free software
+URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/
+Points: 279 points
+Author: Unknown
+Rank: 32
+Comments: 132 comments
+Page: 2
+----------------------------------------
+Title: GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)
+URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor
+Points: 60 points
+Author: Unknown
+Rank: 33
+Comments: 20 comments
+Page: 2
+----------------------------------------
+Title: Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack
+URL: https://www.retrosongbird.com/
+Points: 73 points
+Author: Unknown
+Rank: 34
+Comments: 16 comments
+Page: 2
+----------------------------------------
+Title: IRA Velinsky – Commodore's Industrial Designer
+URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/
+Points: 35 points
+Author: Unknown
+Rank: 35
+Comments: 1 comment
+Page: 2
+----------------------------------------
+Title: Text.js: Build full-stack React apps that render inside console.log
+URL: https://textjs.org/
+Points: 104 points
+Author: Unknown
+Rank: 36
+Comments: 48 comments
+Page: 2
+----------------------------------------
+Title: How Long Can Life Wait?
+URL: https://mceglowski.substack.com/p/how-long-can-life-wait
+Points: 136 points
+Author: Unknown
+Rank: 37
+Comments: 85 comments
+Page: 2
+----------------------------------------
+Title: We know 15k websites are infected. how do we tell them?
+URL: https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/
+Points: 209 points
+Author: Unknown
+Rank: 38
+Comments: 170 comments
+Page: 2
+----------------------------------------
+Title: Terry Pratchett's Study
+URL: https://www.sussi.dk/terry-pratchetts-study
+Points: 131 points
+Author: Unknown
+Rank: 39
+Comments: 33 comments
+Page: 2
+----------------------------------------
+Title: Turning every radio into a radar
+URL: https://tiaminetworks.com/turning-every-radio-into-a-radar/
+Points: 64 points
+Author: Unknown
+Rank: 40
+Comments: 14 comments
+Page: 2
+----------------------------------------
+Title: Show HN: Where Were We
+URL: https://wherewerewe.app/
+Points: 44 points
+Author: Unknown
+Rank: 41
+Comments: 16 comments
+Page: 2
+----------------------------------------
+Title: Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU
+URL: https://github.com/AmSach/maple
+Points: 10 points
+Author: Unknown
+Rank: 42
+Comments: 5 comments
+Page: 2
+----------------------------------------
+Title: Incredible take from one of the GNU maintainers
+URL: https://social.treehouse.systems/@ariadne/117579594140229264
+Points: 3 points
+Author: Unknown
+Rank: 43
+Comments: 2 comments
+Page: 2
+----------------------------------------
+Title: The Components of Agent Memory
+URL: https://www.anthropic.com/research/components-of-agent-memory
+Points: 159 points
+Author: Unknown
+Rank: 44
+Comments: 89 comments
+Page: 2
+----------------------------------------
+Title: What do the next 4000 emoji look like?
+URL: https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look
+Points: 92 points
+Author: Unknown
+Rank: 45
+Comments: 96 comments
+Page: 2
+----------------------------------------
+Title: Libghostty 1.0
+URL: https://mitchellh.com/writing/libghostty-1-0
+Points: 1045 points
+Author: Unknown
+Rank: 46
+Comments: 187 comments
+Page: 2
+----------------------------------------
+Title: Study solved a 150-year-old mystery into the identity of the extinct giant crane
+URL: https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane
+Points: 24 points
+Author: Unknown
+Rank: 47
+Comments: 3 comments
+Page: 2
+----------------------------------------
+Title: Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE
+URL: https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/
+Points: 202 points
+Author: Unknown
+Rank: 48
+Comments: 27 comments
+Page: 2
+----------------------------------------
+Title: Show HN: LLM weight editing tool made by a 15-year-old
+URL: https://github.com/Miyamoto-Renya/LaplacesScissors
+Points: 8 points
+Author: Unknown
+Rank: 49
+Comments: discuss
+Page: 2
+----------------------------------------
+Title: Show HN: An offline desktop companion to help maintain a healthy blink rhythm
+URL: https://eyesrhythm.com/
+Points: 31 points
+Author: Unknown
+Rank: 50
+Comments: 15 comments
+Page: 2
+----------------------------------------
+Title: Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8
+URL: https://github.com/Video-Rebirth/hyperflow-h3-flash
+Points: 66 points
+Author: Unknown
+Rank: 51
+Comments: 13 comments
+Page: 2
+----------------------------------------
+Title: My parents chose to die together and I was left to grieve alone
+URL: https://www.bbc.com/news/articles/c81dwllzv113o
+Points: 30 points
+Author: Unknown
+Rank: 52
+Comments: 15 comments
+Page: 2
+----------------------------------------
+Title: ToothPaste
+URL: https://brisk4t.github.io/blog/toothpaste/
+Points: 97 points
+Author: Unknown
+Rank: 53
+Comments: 19 comments
+Page: 2
+----------------------------------------
+Title: Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming
+URL: https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/
+Points: 56 points
+Author: Unknown
+Rank: 54
+Comments: 33 comments
+Page: 2
+----------------------------------------
+Title: Multi-Token Prediction Done Right
+URL: https://arxiv.org/abs/2610.38331
+Points: 7 points
+Author: Unknown
+Rank: 55
+Comments: 2 comments
+Page: 2
+----------------------------------------
+Title: Sailing Solo Around Britain
+URL: https://sites.google.com/view/sailing-solo-around-britain/leisure-27-dark-star
+Points: 10 points
+Author: Unknown
+Rank: 56
+Comments: 3 comments
+Page: 2
+----------------------------------------
+Title: Shadow of the Sun (2021)
+URL: https://mattlakeman.org/2021/07/27/shadow-of-the-sun/
+Points: 25 points
+Author: Unknown
+Rank: 57
+Comments: 4 comments
+Page: 2
+----------------------------------------
+Title: Firecracker VM Escape: PwnEscape Part 2
+URL: https://pwn.ai/blog/firecracker-escape
+Points: 282 points
+Author: Unknown
+Rank: 58
+Comments: 135 comments
+Page: 2
+----------------------------------------
+Title: Cancer at Sea
+URL: https://biographic.com/cancer-at-sea/
+Points: 26 points
+Author: Unknown
+Rank: 59
+Comments: 2 comments
+Page: 2
+----------------------------------------
+Title: They don't make 'em like that any more: Borland Turbo Pascal 7
+URL: https://kevinboone.me/tpwin.html
+Points: 209 points
+Author: Unknown
+Rank: 60
+Comments: 115 comments
+Page: 2
+----------------------------------------
+Title: British Library Legal deposit and web archiving
+URL: https://www.bl.uk/services/legal-deposit/web-archiving
+Points: 62 points
+Author: Unknown
+Rank: 61
+Comments: 29 comments
+Page: 3
+----------------------------------------
+Title: What should we learn now?
+URL: https://ducktape.blot.im/what-should-we-learn-now
+Points: 31 points
+Author: Unknown
+Rank: 62
+Comments: 12 comments
+Page: 3
+----------------------------------------
+Title: sshole
+URL: https://sshhole.com
+Points: 2963 points
+Author: Unknown
+Rank: 63
+Comments: 744 comments
+Page: 3
+----------------------------------------
+Title: Notes on San Marino
+URL: https://mattlakeman.org/2026/11/05/notes-on-san-marino/
+Points: 152 points
+Author: Unknown
+Rank: 64
+Comments: 53 comments
+Page: 3
+----------------------------------------
+Title: 8088 Domination Post-Mortem
+URL: https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/
+Points: 79 points
+Author: Unknown
+Rank: 65
+Comments: 16 comments
+Page: 3
+----------------------------------------
+Title: The Unwilding of Patagonia's Pollinators
+URL: https://biographic.com/the-unwilding-of-patagonias-pollinators/
+Points: 4 points
+Author: Unknown
+Rank: 66
+Comments: discuss
+Page: 3
+----------------------------------------
+Title: The typo generation is damaging literature
+URL: https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature
+Points: 66 points
+Author: Unknown
+Rank: 67
+Comments: 78 comments
+Page: 3
+----------------------------------------
+Title: Why Is Everyone Leaving New Zealand? [video]
+URL: https://www.youtube.com/watch?v=zIxTKc67tHU
+Points: 4 points
+Author: Unknown
+Rank: 68
+Comments: discuss
+Page: 3
+----------------------------------------
+Title: GitHub's new Git storage architecture
+URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
+Points: 227 points
+Author: Unknown
+Rank: 69
+Comments: 64 comments
+Page: 3
+----------------------------------------
+Title: A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+URL: https://hightouch.com/blog/llm-judges-identity-resolution
+Points: 580 points
+Author: Unknown
+Rank: 70
+Comments: 151 comments
+Page: 3
+----------------------------------------
+Title: First steps in bare-metal programming using UEFI
+URL: https://kevinboone.me/efitest_index.html
+Points: 248 points
+Author: Unknown
+Rank: 71
+Comments: 54 comments
+Page: 3
+----------------------------------------
+Title: Claude Code sends your email address to websites
+URL: https://github.com/anthropics/claude-code/issues/107757
+Points: 1596 points
+Author: Unknown
+Rank: 72
+Comments: 523 comments
+Page: 3
+----------------------------------------
+Title: Tesla to wind down Cybertruck production
+URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817
+Points: 1139 points
+Author: Unknown
+Rank: 73
+Comments: 2055 comments
+Page: 3
+----------------------------------------
+Title: Tasfer: a text editor drawn on a 2D canvas
+URL: https://www.hamza.se/blog/tasfer
+Points: 57 points
+Author: Unknown
+Rank: 74
+Comments: 38 comments
+Page: 3
+----------------------------------------
+Title: Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5
+URL: https://github.com/hyphatech/spindle
+Points: 59 points
+Author: Unknown
+Rank: 75
+Comments: 8 comments
+Page: 3
+----------------------------------------
+Title: Here Be Monsters
+URL: https://www.nybooks.com/online/2026/10/30/here-be-monsters/
+Points: 4 points
+Author: Unknown
+Rank: 76
+Comments: discuss
+Page: 3
+----------------------------------------
+Title: Gemini Omni 1.2 Flash
+URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
+Points: 362 points
+Author: Unknown
+Rank: 77
+Comments: 250 comments
+Page: 3
+----------------------------------------
+Title: The Flash C Compiler
+URL: https://blog.adafruit.com/2026/10/31/flash-c-compiler/
+Points: 106 points
+Author: Unknown
+Rank: 78
+Comments: 55 comments
+Page: 3
+----------------------------------------
+Title: The great butter and cheese fire of 1991
+URL: https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/
+Points: 85 points
+Author: Unknown
+Rank: 79
+Comments: 25 comments
+Page: 3
+----------------------------------------
+Title: Ask HN: How did you convince family and friends to join your XMPP/Matrix server?
+URL: item?id=50405250
+Points: 84 points
+Author: Unknown
+Rank: 80
+Comments: 81 comments
+Page: 3
+----------------------------------------
+Title: UpCodes (YC S17) is hiring SDR's to sell AI compliance software
+URL: https://up.codes/careers?utm_source=HN
+Points: 0 points
+Author: Unknown
+Rank: 81
+Comments: 0 comments
+Page: 3
+----------------------------------------
+Title: Chomsky and the two cultures of statistical learning (2011)
+URL: https://www.norvig.com/chomsky.html
+Points: 144 points
+Author: Unknown
+Rank: 82
+Comments: 135 comments
+Page: 3
+----------------------------------------
+Title: PostgreSQL Internals [pdf] (2023)
+URL: https://edu.postgrespro.com/postgresql_internals-14_en.pdf
+Points: 88 points
+Author: Unknown
+Rank: 83
+Comments: 7 comments
+Page: 3
+----------------------------------------
+Title: Building the NBC News Big Board
+URL: https://ejfox.com/projects/nbc-big-board
+Points: 59 points
+Author: Unknown
+Rank: 84
+Comments: 24 comments
+Page: 3
+----------------------------------------
+Title: Devvm.dev: One VM for every project
+URL: https://devvm.dev/
+Points: 186 points
+Author: Unknown
+Rank: 85
+Comments: 73 comments
+Page: 3
+----------------------------------------
+Title: Show HN: Green tests are not proof – verifier for C/C++ and firmware fixes
+URL: https://unfix.dev/
+Points: 15 points
+Author: Unknown
+Rank: 86
+Comments: 1 comment
+Page: 3
+----------------------------------------
+Title: Can GROUP BY still be optimized after all these years?
+URL: https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/
+Points: 119 points
+Author: Unknown
+Rank: 87
+Comments: 25 comments
+Page: 3
+----------------------------------------
+Title: The AI sell-off compared to well-known stock market crashes
+URL: https://www.kadoa.com/companies/insights/ai-selloff-perspective
+Points: 91 points
+Author: Unknown
+Rank: 88
+Comments: 76 comments
+Page: 3
+----------------------------------------
+Title: Kugelblitz – Mac-Native Google Earth Alternative
+URL: https://apps.metaebene.me/en/kugelblitz
+Points: 269 points
+Author: Unknown
+Rank: 89
+Comments: 66 comments
+Page: 3
+----------------------------------------
+Title: US FAA says it will phase out floppy disks from air traffic control by 2028
+URL: https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/
+Points: 403 points
+Author: Unknown
+Rank: 90
+Comments: 327 comments
+Page: 3
+----------------------------------------
+Title: Optimising the Rail Cube
+URL: https://owenlacey.dev/railcube-optimisation/post
+Points: 35 points
+Author: Unknown
+Rank: 91
+Comments: 1 comment
+Page: 4
+----------------------------------------
+Title: Blender's UI and Runtime: Much Faster Than GPUI
+URL: https://github.com/ppmpreetham/BUI
+Points: 731 points
+Author: Unknown
+Rank: 92
+Comments: 290 comments
+Page: 4
+----------------------------------------
+Title: Microsoft Removes PC-to-PC Migration from Windows 11, Pushes Users to OneDrive
+URL: https://www.ghacks.net/2026/11/03/microsoft-removes-pc-to-pc-migration-from-windows-11-and-points-users-to-onedrive-based-windows-backup/
+Points: 16 points
+Author: Unknown
+Rank: 93
+Comments: 7 comments
+Page: 4
+----------------------------------------
+Title: Pwn.college
+URL: https://pwn.college/
+Points: 333 points
+Author: Unknown
+Rank: 94
+Comments: 54 comments
+Page: 4
+----------------------------------------
+Title: RealPage rent-pricing case wraps with nearly $360M to renters
+URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/
+Points: 181 points
+Author: Unknown
+Rank: 95
+Comments: 169 comments
+Page: 4
+----------------------------------------
+Title: Restaurant Delivery Payment-Skimming Campaign
+URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming
+Points: 167 points
+Author: Unknown
+Rank: 96
+Comments: 97 comments
+Page: 4
+----------------------------------------
+Title: Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS
+URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105
+Points: 648 points
+Author: Unknown
+Rank: 97
+Comments: 424 comments
+Page: 4
+----------------------------------------
+Title: Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)
+URL: https://jhr.pensoft.net/articles.php?id=9096
+Points: 181 points
+Author: Unknown
+Rank: 98
+Comments: 60 comments
+Page: 4
+----------------------------------------
+Title: We've built an open-source feature flag server for 11 years
+URL: https://github.com/Unleash/unleash
+Points: 164 points
+Author: Unknown
+Rank: 99
+Comments: 112 comments
+Page: 4
+----------------------------------------
+Title: The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)
+URL: https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf
+Points: 57 points
+Author: Unknown
+Rank: 100
+Comments: 42 comments
+Page: 4
+----------------------------------------
+Title: ZeBridge – PostgreSQL replicas on devices, synchronized over NATS
+URL: https://github.com/ndrean/ZeBridge
+Points: 28 points
+Author: Unknown
+Rank: 101
+Comments: 3 comments
+Page: 4
+----------------------------------------
+Title: Show HN: Waymark – A workflow engine that compiles jobs instead of replaying
+URL: https://github.com/piercefreeman/waymark
+Points: 81 points
+Author: Unknown
+Rank: 102
+Comments: 45 comments
+Page: 4
+----------------------------------------
+Title: I struggle to believe that AI R&D is ingenious
+URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL
+Points: 220 points
+Author: Unknown
+Rank: 103
+Comments: 217 comments
+Page: 4
+----------------------------------------
+Title: Ex-PlayStation boss says "true innovation" would be making a $300 console again
+URL: https://www.gamesradar.com/platforms/playstation/ps6-doesnt-need-more-power-ex-playstation-boss-says-because-true-innovation-would-be-making-a-usd300-console-again/
+Points: 39 points
+Author: Unknown
+Rank: 104
+Comments: 13 comments
+Page: 4
+----------------------------------------
+Title: MS Paint Remote Code Execution Vulnerability
+URL: https://www.cve.org/CVERecord?id=CVE-2026-83844
+Points: 718 points
+Author: Unknown
+Rank: 105
+Comments: 281 comments
+Page: 4
+----------------------------------------
+Title: How octopuses squeeze through too small gaps
+URL: https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps
+Points: 76 points
+Author: Unknown
+Rank: 106
+Comments: 20 comments
+Page: 4
+----------------------------------------
+Title: Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3
+URL: https://github.com/rivet-dev/rivet
+Points: 120 points
+Author: Unknown
+Rank: 107
+Comments: 59 comments
+Page: 4
+----------------------------------------
+Title: Anthropic IPO buyers see valuation as low as $1.1T
+URL: https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout
+Points: 317 points
+Author: Unknown
+Rank: 108
+Comments: 618 comments
+Page: 4
+----------------------------------------
+Title: Outbound SIP calling is now available to all organizations
+URL: https://developers.openai.com/api/docs/guides/voice-sip
+Points: 73 points
+Author: Unknown
+Rank: 109
+Comments: 61 comments
+Page: 4
+----------------------------------------
+Title: The planet Vulcan: a cautionary tale
+URL: https://kevinboone.me/vulcan.html
+Points: 11 points
+Author: Unknown
+Rank: 110
+Comments: discuss
+Page: 4
+----------------------------------------
+Title: Size-It-Up (Game)
+URL: https://magnitudle.com/size-it-up
+Points: 81 points
+Author: Unknown
+Rank: 111
+Comments: 27 comments
+Page: 4
+----------------------------------------
+Title: Replit rebuilt its sandbox engine with microVMs
+URL: https://frontier.replit.com/sandbox-engine-microvms-part-1/
+Points: 95 points
+Author: Unknown
+Rank: 112
+Comments: 37 comments
+Page: 4
+----------------------------------------
+Title: Deus Ex
+URL: https://www.filfre.net/2026/11/deus-ex/
+Points: 379 points
+Author: Unknown
+Rank: 113
+Comments: 201 comments
+Page: 4
+----------------------------------------
+Title: Show HN: Tmux-restore saves tmux windows and agent sessions across reboots
+URL: https://github.com/andrewboldi/tmux-restore
+Points: 58 points
+Author: Unknown
+Rank: 114
+Comments: 36 comments
+Page: 4
+----------------------------------------
+Title: Obscure audio codec is a perfect fit for the N64
+URL: https://phoboslab.org/log/2026/11/n64-ulc-codec
+Points: 266 points
+Author: Unknown
+Rank: 115
+Comments: 31 comments
+Page: 4
+----------------------------------------
+Title: AI is dramatically accelerating AI research
+URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
+Points: 366 points
+Author: Unknown
+Rank: 116
+Comments: 348 comments
+Page: 4
+----------------------------------------
+Title: So my ISP was hijacking my DNS
+URL: https://www.karthihegde.dev/posts/dns_tampering
+Points: 232 points
+Author: Unknown
+Rank: 117
+Comments: 207 comments
+Page: 4
+----------------------------------------
+Title: Memorilla: Latent Semantic Memory for LLMs
+URL: https://arxiv.org/abs/2610.21375
+Points: 116 points
+Author: Unknown
+Rank: 118
+Comments: 13 comments
+Page: 4
+----------------------------------------
+Title: AI for scientific discovery: How researchers use Claude
+URL: https://www.anthropic.com/research/how-researchers-use-claude
+Points: 101 points
+Author: Unknown
+Rank: 119
+Comments: 39 comments
+Page: 4
+----------------------------------------
+Title: AI is forcing us to pay off 40 years of technical debt
+URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
+Points: 1299 points
+Author: Unknown
+Rank: 120
+Comments: 749 comments
+Page: 4
+----------------------------------------
+Title: Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)
+URL: https://www.laphamsquarterly.org/roundtable/zero-hour
+Points: 106 points
+Author: Unknown
+Rank: 121
+Comments: 6 comments
+Page: 5
+----------------------------------------
+Title: Britain to make salary disclosure in job ads mandatory
+URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/
+Points: 618 points
+Author: Unknown
+Rank: 122
+Comments: 454 comments
+Page: 5
+----------------------------------------
+Title: Editing at the Speed of Thought in Emacs
+URL: https://joshblais.com/blog/editing-at-the-speed-of-thought-in-emacs/
+Points: 4 points
+Author: Unknown
+Rank: 123
+Comments: discuss
+Page: 5
+----------------------------------------
+Title: MCP Explained
+URL: https://mcp-explained.com/
+Points: 343 points
+Author: Unknown
+Rank: 124
+Comments: 135 comments
+Page: 5
+----------------------------------------
+Title: Datastructures-JS – The JavaScript data structures project
+URL: https://github.com/datastructures-js
+Points: 12 points
+Author: Unknown
+Rank: 125
+Comments: 1 comment
+Page: 5
+----------------------------------------
+Title: Nvidia Kubernetes Engine (NVKE)
+URL: https://github.com/dsx-ai-factory/nvke
+Points: 124 points
+Author: Unknown
+Rank: 126
+Comments: 29 comments
+Page: 5
+----------------------------------------
+Title: Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)
+URL: https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/
+Points: 77 points
+Author: Unknown
+Rank: 127
+Comments: 2 comments
+Page: 5
+----------------------------------------
+Title: Driver AI in Stunt Car Racer, Commodore 64
+URL: https://gamesexplained.com/c64/stunt-car-racer/opponents.html
+Points: 6 points
+Author: Unknown
+Rank: 128
+Comments: discuss
+Page: 5
+----------------------------------------
+Title: 70% of Brits say please or thank you when speaking to AI, some even apologize
+URL: https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize
+Points: 6 points
+Author: Unknown
+Rank: 129
+Comments: 7 comments
+Page: 5
+----------------------------------------
+Title: Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web
+URL: https://github.com/anomalyco/rune
+Points: 177 points
+Author: Unknown
+Rank: 130
+Comments: 130 comments
+Page: 5
+----------------------------------------
+Title: I toured Unitree's factory. I'm more bullish on the West
+URL: https://josef.cn/blog/unitree
+Points: 141 points
+Author: Unknown
+Rank: 131
+Comments: 122 comments
+Page: 5
+----------------------------------------
+Title: From Linux to Wikipedia: How Volunteers Build the Internet
+URL: https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/
+Points: 342 points
+Author: Unknown
+Rank: 132
+Comments: 137 comments
+Page: 5
+----------------------------------------
+Title: Sodium-ion batteries approach cost parity with LFP
+URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/
+Points: 216 points
+Author: Unknown
+Rank: 133
+Comments: 104 comments
+Page: 5
+----------------------------------------
+Title: Pangram Image 1.0
+URL: https://www.pangram.com/blog/introducing-pangram-image-1-0
+Points: 151 points
+Author: Unknown
+Rank: 134
+Comments: 68 comments
+Page: 5
+----------------------------------------
+Title: PyLings: Solve Exercises and Learn Python
+URL: https://github.com/thesayfulla/pylings
+Points: 52 points
+Author: Unknown
+Rank: 135
+Comments: 4 comments
+Page: 5
+----------------------------------------
+Title: Baidu released ERNIE 5.5 Flash Base
+URL: https://ernie.baidu.com/release/ernie-5-5-flash-base/
+Points: 187 points
+Author: Unknown
+Rank: 136
+Comments: 97 comments
+Page: 5
+----------------------------------------
+Title: MTG-I2 First Images
+URL: https://www.eumetsat.int/mtg-i2-first-images
+Points: 70 points
+Author: Unknown
+Rank: 137
+Comments: 16 comments
+Page: 5
+----------------------------------------
+Title: Write your own Wayland compositor: Rendering windows
+URL: https://nekidev.github.io/2026/11/07/1-welcome-to-wlroots-part-3.html
+Points: 3 points
+Author: Unknown
+Rank: 138
+Comments: discuss
+Page: 5
+----------------------------------------
+Title: Ozempic-style drugs now in trials for heart failure, addiction and even aging
+URL: https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/
+Points: 102 points
+Author: Unknown
+Rank: 139
+Comments: 97 comments
+Page: 5
+----------------------------------------
+Title: Google has acquired Crusoe's data center site in southeast Wyoming
+URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update
+Points: 102 points
+Author: Unknown
+Rank: 140
+Comments: 86 comments
+Page: 5
+----------------------------------------
+Title: Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue
+URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html
+Points: 515 points
+Author: Unknown
+Rank: 141
+Comments: 229 comments
+Page: 5
+----------------------------------------
+Title: 40C3 halfnarp – Submit talk preferences to aid scheduling
+URL: https://halfnarp.events.ccc.de
+Points: 53 points
+Author: Unknown
+Rank: 142
+Comments: 13 comments
+Page: 5
+----------------------------------------
+Title: Panthera: Ampere's CPU Performance Model
+URL: https://github.com/AmpereComputing/panthera
+Points: 39 points
+Author: Unknown
+Rank: 143
+Comments: 13 comments
+Page: 5
+----------------------------------------
+Title: You are protesting the wrong technology, people
+URL: https://hollisrobbinsanecdotal.substack.com/p/you-are-protesting-the-wrong-technology
+Points: 35 points
+Author: Unknown
+Rank: 144
+Comments: 8 comments
+Page: 5
+----------------------------------------
+Title: The Ubuntu 26.04 Rust sudo is not compatible with standard sudo
+URL: https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible
+Points: 206 points
+Author: Unknown
+Rank: 145
+Comments: 191 comments
+Page: 5
+----------------------------------------
+Title: Starfall – Affordable, routine access to microgravity
+URL: https://www.spacex.com/starfall
+Points: 287 points
+Author: Unknown
+Rank: 146
+Comments: 234 comments
+Page: 5
+----------------------------------------
+Title: Microsoft requiring DMARC now or just us?
+URL: https://list.sys4.de/hyperkitty/list/mailop@mailop.org/thread/SSF3AS4J7HGO4DGDG5BRSM2VQMTUCDV7/
+Points: 17 points
+Author: Unknown
+Rank: 147
+Comments: 9 comments
+Page: 5
+----------------------------------------
+Title: The Burning of the Information Superlibrary
+URL: https://dorotac.eu/posts/superlibrary/
+Points: 5 points
+Author: Unknown
+Rank: 148
+Comments: 2 comments
+Page: 5
+----------------------------------------
+Title: Air holes turn silicon wafers into flat UV focusing mirrors for compact optics
+URL: https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html
+Points: 11 points
+Author: Unknown
+Rank: 149
+Comments: 2 comments
+Page: 5
+----------------------------------------
+Title: Window Sweaters
+URL: https://github.com/saragordic/window-sweaters
+Points: 460 points
+Author: Unknown
+Rank: 150
+Comments: 136 comments
+Page: 5
+----------------------------------------
