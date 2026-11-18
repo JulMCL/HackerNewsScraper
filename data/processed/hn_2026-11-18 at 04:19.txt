@@ -1,0 +1,243 @@
+Collected at (UTC): 2026-11-18 04:19:52.865718
+Posts: 30
+
+Title: Java4Shell: RCE in OpenJDK when processing Base64
+URL: https://calif.io/java4shell/
+Points: 637 points
+Author: Unknown
+Rank: 1
+Comments: 166 comments
+Page: 1
+----------------------------------------
+Title: ID.me terms required for IRS sign-in
+URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in
+Points: 190 points
+Author: Unknown
+Rank: 2
+Comments: 70 comments
+Page: 1
+----------------------------------------
+Title: Google's AI answers reducing search traffic by 40%
+URL: https://revscope.co/blog/search-seo-geo-2026/
+Points: 176 points
+Author: Unknown
+Rank: 3
+Comments: 122 comments
+Page: 1
+----------------------------------------
+Title: GPT‑6.2 Astra and Sol
+URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+Points: 1152 points
+Author: Unknown
+Rank: 4
+Comments: 730 comments
+Page: 1
+----------------------------------------
+Title: Quad9's withdrawal from France: A canary in the coal mine
+URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/
+Points: 361 points
+Author: Unknown
+Rank: 5
+Comments: 114 comments
+Page: 1
+----------------------------------------
+Title: Archive Team is archiving the Apple Support Community (closes November 20, 2026)
+URL: https://wiki.archiveteam.org/index.php/Apple_Discussions
+Points: 118 points
+Author: Unknown
+Rank: 6
+Comments: 46 comments
+Page: 1
+----------------------------------------
+Title: GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer
+URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer
+Points: 0 points
+Author: Unknown
+Rank: 7
+Comments: 0 comments
+Page: 1
+----------------------------------------
+Title: Microsoft's ONNX Runtime has disappeared from GitHub
+URL: https://github.com/microsoft/onnxruntime
+Points: 181 points
+Author: Unknown
+Rank: 8
+Comments: 43 comments
+Page: 1
+----------------------------------------
+Title: Nvidia stopped disclosing Singapore sales as revenues hit $104B
+URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf
+Points: 434 points
+Author: Unknown
+Rank: 9
+Comments: 212 comments
+Page: 1
+----------------------------------------
+Title: Highly classified US national security communications network goes down
+URL: https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down
+Points: 516 points
+Author: Unknown
+Rank: 10
+Comments: 588 comments
+Page: 1
+----------------------------------------
+Title: jQuery 4.1.0
+URL: https://github.com/jquery/jquery/releases/tag/4.1.0
+Points: 270 points
+Author: Unknown
+Rank: 11
+Comments: 151 comments
+Page: 1
+----------------------------------------
+Title: MAI Code 2 and Code 2 Flash
+URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/
+Points: 308 points
+Author: Unknown
+Rank: 12
+Comments: 141 comments
+Page: 1
+----------------------------------------
+Title: Phrack 73 Released
+URL: https://phrack.org/issues/73/introduction_md
+Points: 308 points
+Author: Unknown
+Rank: 13
+Comments: 46 comments
+Page: 1
+----------------------------------------
+Title: 350 years ago, Ole Rømer discovered that light has a finite speed
+URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969
+Points: 273 points
+Author: Unknown
+Rank: 14
+Comments: 82 comments
+Page: 1
+----------------------------------------
+Title: Engineering Vitals in the Age of AI
+URL: https://octopus.com/blog/engineering-vitals-in-the-age-of-ai
+Points: 6 points
+Author: Unknown
+Rank: 15
+Comments: discuss
+Page: 1
+----------------------------------------
+Title: Harvard researchers find AI coding agents shifted the bottleneck to code review
+URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/
+Points: 89 points
+Author: Unknown
+Rank: 16
+Comments: 146 comments
+Page: 1
+----------------------------------------
+Title: Cerebras Disaggregated Inference
+URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference
+Points: 43 points
+Author: Unknown
+Rank: 17
+Comments: 13 comments
+Page: 1
+----------------------------------------
+Title: Solid 2.0
+URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/
+Points: 255 points
+Author: Unknown
+Rank: 18
+Comments: 72 comments
+Page: 1
+----------------------------------------
+Title: Fun with Constrained Programming
+URL: https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html
+Points: 28 points
+Author: Unknown
+Rank: 19
+Comments: discuss
+Page: 1
+----------------------------------------
+Title: What is the best harness for each model?
+URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/
+Points: 345 points
+Author: Unknown
+Rank: 20
+Comments: 120 comments
+Page: 1
+----------------------------------------
+Title: Tencent Hy4 Flash
+URL: https://hy.tencent.ai/research/hy4-flash
+Points: 79 points
+Author: Unknown
+Rank: 21
+Comments: 11 comments
+Page: 1
+----------------------------------------
+Title: Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos
+URL: https://starsling.dev
+Points: 62 points
+Author: Unknown
+Rank: 22
+Comments: 35 comments
+Page: 1
+----------------------------------------
+Title: Apple Services Down
+URL: https://developer.apple.com/system-status/
+Points: 650 points
+Author: Unknown
+Rank: 23
+Comments: 364 comments
+Page: 1
+----------------------------------------
+Title: Web Browser Engineering (2021)
+URL: https://browser.engineering/
+Points: 136 points
+Author: Unknown
+Rank: 24
+Comments: 20 comments
+Page: 1
+----------------------------------------
+Title: Latent Lattice Language Models
+URL: https://shivamduggal4.github.io/latent-lattice-language-models/
+Points: 34 points
+Author: Unknown
+Rank: 25
+Comments: 4 comments
+Page: 1
+----------------------------------------
+Title: Who Builds the Machines That Build the Machines?
+URL: https://read.corematter.com/p/section-232-us-machine-tools
+Points: 113 points
+Author: Unknown
+Rank: 26
+Comments: 34 comments
+Page: 1
+----------------------------------------
+Title: Not Everything Needs an LLM
+URL: https://newsletter.posthog.com/p/decision-models
+Points: 115 points
+Author: Unknown
+Rank: 27
+Comments: 45 comments
+Page: 1
+----------------------------------------
+Title: Effects of a Nuclear Detonation in Low Earth Orbit
+URL: https://arxiv.org/abs/2611.09827
+Points: 88 points
+Author: Unknown
+Rank: 28
+Comments: 62 comments
+Page: 1
+----------------------------------------
+Title: Adopting Python 3.15's lazy imports: a 4× faster CLI, and where they didn't help
+URL: https://namegarage.com/blog/python-3-15-lazy-imports
+Points: 6 points
+Author: Unknown
+Rank: 29
+Comments: 3 comments
+Page: 1
+----------------------------------------
+Title: How the Claude Code team thinks about verification
+URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/
+Points: 275 points
+Author: Unknown
+Rank: 30
+Comments: 220 comments
+Page: 1
+----------------------------------------
